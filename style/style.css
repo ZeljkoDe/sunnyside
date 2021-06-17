@@ -89,7 +89,7 @@ header .nav_logo {
 
 @media (min-width: 756px) {
   header .nav_logo {
-    font-size: 25px;
+    font-size: 40px;
   }
 }
 
@@ -147,7 +147,7 @@ header .nav_items {
 }
 
 .hero {
-  height: 90vh;
+  height: 80vh;
   background: url(../images/mobile/image-header.jpg) center/cover no-repeat;
   color: white;
   text-align: center;
@@ -428,4 +428,4 @@ footer ul {
 footer .icons > * {
   padding: 0 10px;
 }
-/*# sourceMappingURL=style2.css.map */
+/*# sourceMappingURL=style.css.map */

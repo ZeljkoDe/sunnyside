@@ -93,7 +93,7 @@ header {
     &_logo {
       letter-spacing: 0.5px;
       @media (min-width: $--width-desktop) {
-        font-size: 25px;
+        font-size: 40px;
       }
     }
     &_hamburger {
@@ -131,7 +131,7 @@ header {
   }
 }
 .hero {
-  height: 90vh;
+  height: 80vh;
   background: url(../images/mobile/image-header.jpg) center/cover no-repeat;
   color: $--clr-white;
   text-align: center;
